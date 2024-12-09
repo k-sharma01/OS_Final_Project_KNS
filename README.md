@@ -14,7 +14,7 @@ Wordsmith is a multiplayer word game where two players compete to create valid w
 ## **Getting Started**  
 
 ### **1. Clone the Repository**  
-git clone https://github.com/k-sharma01/Wordsmith_KNS.git
+git clone https://github.com/k-sharma01/OS_Final_Project_KNS.git
 cd wordsmith-game
 
 ### **2. Compile the files**
