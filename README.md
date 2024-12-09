@@ -1,4 +1,4 @@
-## **Wordsmith_KNS**  
+## **OS_Final_Project_KNS**  
 
 Wordsmith is a multiplayer word game where two players compete to create valid words and earn points. The game features a server-client architecture, real-time gameplay, and a competitive scoring system.  
 
